@@ -1,0 +1,24 @@
+[project]
+name = "python360"
+version = "0.1.0"
+description = "A MCP server project"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+ "mcp[cli]>=1.5.0",
+]
+[[project.authors]]
+name = "RGGH"
+email = "pisscompany@gmail.com"
+
+[build-system]
+requires = [ "hatchling",]
+build-backend = "hatchling.build"
+
+[project.scripts]
+mcp-360 = "python360:main"
+
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/python360"]
+
