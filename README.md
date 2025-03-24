@@ -2,6 +2,8 @@
 
 A MCP server project
 
+https://youtu.be/f5Yg-TOpq9A
+
 ## Components
 
 ### Resources
