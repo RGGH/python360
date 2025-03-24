@@ -26,13 +26,6 @@ The server implements one tool:
   - Takes "name" and "content" as required string arguments
   - Updates server state and notifies clients of resource changes
 
-## Configuration
-
-[TODO: Add configuration details specific to your implementation]
-
-## Quickstart
-
-### Install
 
 #### Claude Desktop
 
