@@ -2,7 +2,7 @@
 
 A MCP server project
 
-https://youtu.be/f5Yg-TOpq9A
+[![Watch the video](https://img.youtube.com/vi/f5Yg-TOpq9A/maxresdefault.jpg)](https://youtu.be/f5Yg-TOpq9A)
 
 ## Components
 
